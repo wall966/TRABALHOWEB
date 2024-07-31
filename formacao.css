@@ -1,0 +1,13 @@
+body {
+    color:green;
+    background-color: black;
+}
+
+.format1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.titulo1 {
+    text-align: center;
+}
